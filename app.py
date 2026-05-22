@@ -62,15 +62,15 @@ def load_grid():
 GRID = load_grid()
 
 PORTS = {
-    "Mumbai":        ( 80,  62),
-    "Visakhapatnam": ( 86, 118),
-    "Chennai":       (110,  98),
-    "Kochi":         (126,  80),
-    "Colombo":       (140, 100),
-    "Karachi":       ( 50,  34),
-    "Goa":           ( 98,  68),
-    "Aden":          ( 45,  30),
-    "Singapore":     (100, 175),
+    "Mumbai":        ( 75,  85),
+    "Visakhapatnam": ( 77, 130),
+    "Chennai":       (104,  116),
+    "Kochi":         (117,  100),
+    "Colombo":       (130, 117),
+    "Karachi":       ( 39,  49),
+    "Goa":           ( 98,  62),
+    "Aden":          ( 80,  4),
+    "Singapore":     (121, 198),
 }
 
 # Carve 3×3 water patches around ports
